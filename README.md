@@ -18,6 +18,6 @@ https://www.inflearn.com/course/10주완성-코딩테스트-큰돌/dashboard
 ## solved.ac
 
 - 2024.06.27 실버 달성
-- 2024.05.22 실버1 달성
+- 2025.05.22 실버1 달성
 
   ~ing..
