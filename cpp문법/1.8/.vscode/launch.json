@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/emfpdlzj/Desktop/큰돌 알고리즘 Cpp/1.8",
+      "program": "/Users/emfpdlzj/Desktop/큰돌 알고리즘 Cpp/1.8/build/Debug/outDebug"
+    }
+  ]
+}
